@@ -1,4 +1,2 @@
-/build
-build
-./build
-.build/*
+build/src/*
+.build/src/*
